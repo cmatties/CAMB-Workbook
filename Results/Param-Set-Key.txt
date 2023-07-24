@@ -1,0 +1,7 @@
+baseline-S8: {Omega_m, Omega_b, h, ns, S8, gamma}
+Ext1-S8: {Omega_m, Omega_b, w0, wa, h, ns, S8, gamma}
+Ext2-S8: {Omega_k, Omega_m, Omega_b, w0, wa, h, ns, S8, gamma}
+
+baseline-sigma8: {Omega_m, Omega_b, h, ns, sigma8, gamma}
+Ext1-sigma8: {Omega_m, Omega_b, w0, wa, h, ns, sigma8, gamma}
+Ext2-sigma8: {Omega_k, Omega_m, Omega_b, w0, wa, h, ns, sigma8, gamma}
